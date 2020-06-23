@@ -1,0 +1,29 @@
+.Day {
+    width: auto;
+}
+
+.Day--isCurrent {
+    background-color: pink;
+}
+
+.Day--gridItem-colStart1 {
+    grid-column-start: 1;
+}
+.Day--gridItem-colStart2 {
+    grid-column-start: 2;
+}
+.Day--gridItem-colStart3 {
+    grid-column-start: 3;
+}
+.Day--gridItem-colStart4 {
+    grid-column-start: 4;
+}
+.Day--gridItem-colStart5 {
+    grid-column-start: 5;
+}
+.Day--gridItem-colStart6 {
+    grid-column-start: 6;
+}
+.Day--gridItem-colStart7 {
+    grid-column-start: 7;
+}

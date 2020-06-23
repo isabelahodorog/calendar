@@ -1,0 +1,293 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calendar:  should match default snapshot 1`] = `
+<div>
+  <div
+    class="Calendar"
+  >
+    <h1>
+      July
+       
+      2020
+    </h1>
+    <div
+      class="Calendar--grid"
+    >
+      <span>
+        Mo
+      </span>
+      <span>
+        Tu
+      </span>
+      <span>
+        We
+      </span>
+      <span>
+        Th
+      </span>
+      <span>
+        Fr
+      </span>
+      <span>
+        Sa
+      </span>
+      <span>
+        Su
+      </span>
+    </div>
+    <hr />
+    <div
+      class="Calendar--grid"
+    >
+      <div
+        class="Day Day--gridItem-colStart3"
+        data-testid="calendarDay"
+      >
+         
+        1
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        2
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        3
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        4
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        5
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        6
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        7
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        8
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        9
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        10
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        11
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        12
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        13
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        14
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        15
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        16
+         
+      </div>
+      <div
+        class="Day Day--isCurrent"
+        data-testid="calendarDay"
+      >
+         
+        17
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        18
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        19
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        20
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        21
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        22
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        23
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        24
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        25
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        26
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        27
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        28
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        29
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        30
+         
+      </div>
+      <div
+        class="Day"
+        data-testid="calendarDay"
+      >
+         
+        31
+         
+      </div>
+    </div>
+  </div>
+</div>
+`;
